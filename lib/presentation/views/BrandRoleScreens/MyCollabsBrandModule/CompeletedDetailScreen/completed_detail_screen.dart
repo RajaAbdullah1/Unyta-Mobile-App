@@ -3,15 +3,12 @@ import 'package:provider/provider.dart';
 import 'package:unyta/core/styles/app_paddings.dart';
 import '../../../../../provider/CompletedTabCampaignBriefProvider/completed_tab_campaign_brief_provider.dart';
 import '../../../../widgets/AboutCreatorBrandCompletedTab/about_creator_brand_completed_tab.dart';
-import '../../../../widgets/BrandInfoCard/brand_info_card.dart';
 import '../../../../widgets/CampaignDesCard/campaign_des_card.dart';
 import '../../../../widgets/CampignBriefCard/campaign_brief_card.dart';
 import '../../../../widgets/CreatorReviewSection/creator_review_section.dart';
 import '../../../../widgets/CustomTitleAppBar/custom_title_appbar.dart';
-import '../../../../widgets/DeliveredCardSection/deliveredCardSection.dart';
 import '../../../../widgets/HeadingSection/heading_section.dart';
 import '../../../../widgets/ReviewByBrandCard/review_by_brand_card.dart';
-import '../../../../widgets/UnderReviewBottomSheet/under_review_bottomsheet.dart';
 
 class CompletedDetailScreen extends StatefulWidget {
   const CompletedDetailScreen({super.key});
